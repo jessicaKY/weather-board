@@ -1,7 +1,5 @@
 # weather-board
 
-![weather-board demo](docs/demo.gif)
-
 氣象看板專案。
 
 ## 本機
