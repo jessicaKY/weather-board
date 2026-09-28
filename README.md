@@ -1,6 +1,13 @@
 # weather-board
 
-氣象看板專案。
+氣象看板專案
+
+## 網站
+
+| 環境 | 連結                                    |
+| ---- | --------------------------------------- |
+| 線上 | https://weather-board-khaki.vercel.app/ |
+| 本機 | http://localhost:3000                   |
 
 ## 本機
 
